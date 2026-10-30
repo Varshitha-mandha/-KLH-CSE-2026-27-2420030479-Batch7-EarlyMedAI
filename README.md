@@ -1,7 +1,5 @@
 # EarlyMed-AI
 
-3rd-year CSE Project Title:
-
 **An Explainable Machine Learning Framework for Early Multi-Disease Risk Prediction Using Healthcare Data Analytics**
 
 ---
